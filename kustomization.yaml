@@ -9,4 +9,4 @@ resources:
 - service.yaml
 images:
 - name: scgskku/cse-undergrad-gp-manage
-  newTag: 0bc366c36551466f0142505534d4c048c91b387f
+  newTag: fedbd04a0300811657dc63092e342f0464e558f4
