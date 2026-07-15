@@ -6,6 +6,7 @@ resources:
 - secret.yaml
 - deployment.yaml
 - ingress.yaml
+- ingress_newdomain.yaml
 - service.yaml
 images:
 - name: scgskku/cse-undergrad-gp-manage
